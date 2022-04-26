@@ -1,9 +1,9 @@
 
 <h3 align=center> 🍀 My Profile 🍀 </h3> <br>
 
-<div align=center> Hi There! I'm a backend developer. </div>
+<div align=center> Hi There! I'm a <b>Backend</b> Developer. </div>
 
-<div align=center> My main skills are Java and SpringBoot </div>
+<div align=center> My main skills are <b>Java</b> and <b>SpringBoot</b> </div>
 
 <br>
 <h3 align=center> 👍 My Favorite 👍 </h3>
