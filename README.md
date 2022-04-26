@@ -1,16 +1,16 @@
 
-<div align=center> 🍀 My Profile 🍀 </div> <br>
+<h3 align=center> 🍀 My Profile 🍀 </h3> <br>
 
 <div align=center> Hi There! I'm a backend developer. </div>
 
 <div align=center> My main skills are Java and SpringBoot </div>
 
-<br><br>
-<div align=center> 👍 My Favorite 👍 </div>
+<br>
+<h3 align=center> 👍 My Favorite 👍 </h3>
 <br>
 <div align=center> 🖥 Youtube  💻 Programming  🎮 Games </div>
-<br><br>
-<div align=center> 🔥 Tech Stack 🔥 </div>
+<br>
+<h3 align=center> 🔥 Tech Stack 🔥 </h3>
 <br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
   <br>
 </div>
-<br><br>
-<div align=center> 👩‍💻 My Github Stats 👩‍💻 </div>
+<br>
+<h3 align=center> 👩‍💻 My Github Stats 👩‍💻 </h3>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kimseungki94&show_icons=true&theme=white">
