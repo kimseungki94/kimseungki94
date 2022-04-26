@@ -10,10 +10,7 @@ My main skills are Java, Spring
 🖥Youtube,  💻Programming,  🎮Games
 
 🔥 Tech Stack 🔥
-![java](https://user-images.githubusercontent.com/32128710/165296478-d18e9cb7-c3e4-48eb-a635-2a179238e699.svg) 
-![springboot](https://user-images.githubusercontent.com/32128710/165296608-21d265db-bf39-4d48-9a43-ceef279d2051.svg) 
-![javascript](https://user-images.githubusercontent.com/32128710/165296556-ae36ecbd-3866-4680-aa31-e888e5d520a0.svg) 
-![vuedotjs](https://user-images.githubusercontent.com/32128710/165296635-90c64c57-5cd6-45c1-883d-b4f5898146c3.svg) 
+![java](https://img.shields.io/badge/java-#007396.svg?style=for-the-badge&logo=java&logoColor-#007396)
 
 <!--
 **kimseungki94/kimseungki94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
