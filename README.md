@@ -10,7 +10,7 @@ My main skills are Java, Spring
 🖥Youtube,  💻Programming,  🎮Games
 
 🔥 Tech Stack 🔥
-![java](https://img.shields.io/badge/java-#007396.svg?style=for-the-badge&logo=java&logoColor-#007396)
+<img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=black">
 
 <!--
 **kimseungki94/kimseungki94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
