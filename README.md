@@ -60,6 +60,7 @@
 </div>
 
 <br/>
+<hr>
 
 ### 👩‍💻 Github Stats
 <br>
