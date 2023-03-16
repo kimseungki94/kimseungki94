@@ -8,8 +8,6 @@
 <br>
 <h3 align=center> 👍 My Favorite 👍 </h3>
 <br>
-<div align=center> 💻 Programming 🖥 Youtube 🎮 Games </div>
-<br>
 <h3 align=center> 🔥 Tech Stack 🔥 </h3>
 <br>
 <div align=center> 
