@@ -1,16 +1,23 @@
+### 🔥 About Me
 
-<h3 align=center> 🍀 My Profile 🍀 </h3> <br>
+<br/>
 
-<div align=center> Hi There! I'm a <b>Backend</b> Developer. </div>
+- 🍀 안녕하세요. <b>김승기</b>입니다!
+- 🔭 저는 <b>Backend</b> 개발자로 성장하는데 큰 관심이 있습니다
+- 🌱 코드를 작성하기 전에 <b>생산성과 유지보수적인 측면</b>을 항상 고려합니다
+- 👯 리팩토링 과정에서 이슈가 있을 경우 <b>객체지향적 사고와 디자인 패턴</b>을 바탕으로 해결하기 위해 노력합니다
+- 🤔 구현에서 끝나지 않고 <b>서비스 고도화</b>를 위한 방안이 무엇이 있을지 고민합니다
+- 💬 정답을 찾기보다 더 나은 <b>개선방안</b>이 어떤게 있는지 찾습니다
+- 📫 전체적인 서비스 프로세스를 분석하여 <b>처리속도를 개선</b>하는 것을 선호합니다
+- 😄 많은 IT종사자들과 <b>Communication</b>을 통해 더 나은 개발자가 되기 위해 노력합니다
 
-<div align=center> My main skills are <b>Java</b> and <b>SpringBoot</b> </div>
+<br/>
+<hr>
+<br/>
 
+### 🔨 Skill
 <br>
-<h3 align=center> 👍 My Favorite 👍 </h3>
-<br>
-<h3 align=center> 🔥 Tech Stack 🔥 </h3>
-<br>
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -51,24 +58,22 @@
   <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
   <br>
 </div>
+
+<br/>
+
+### 👩‍💻 Github Stats
 <br>
-<h3 align=center> 👩‍💻 My Github Stats 👩‍💻 </h3>
-<br>
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=kimseungki94&show_icons=true&theme=white">
 </div>
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimseungki94&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **kimseungki94/kimseungki94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
